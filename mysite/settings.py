@@ -121,6 +121,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 TIME_ZONE = 'Europe/Moscow'
 LANGUAGE_CODE = 'ru-ru'
-STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-ALLOWED_HOSTS = ['127.0.0.1', '<Nikellll>.pythonanywhere.com']
